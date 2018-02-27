@@ -1,3 +1,10 @@
+
+
+1. equivchecker-master.zip: Contains ecplise plugin.(https://github.com/santonus/equivchecker.git)
+
+2. Equivalence-checker-master.zip: Contains first version of tool (https://github.com/soumyadipcsis/Equivalence-checker.git)
+
+
 # SamaTulyata Tool
 
 Prototype of CPN Equivalence checkers
