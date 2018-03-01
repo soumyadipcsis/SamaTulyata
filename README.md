@@ -70,7 +70,7 @@ If you face any problem, please contact with us.
 
 For ecliple plugin : https://github.com/santonus/equivchecker
 
-soumyadip@cse.iitkgp.ernet.in or 
+soumyadip.bandyopadhyay@hpi.de or 
 soumyadip.bandyopadhyay@gmail.com
 
 
