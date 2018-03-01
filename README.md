@@ -75,4 +75,4 @@ soumyadip.bandyopadhyay@gmail.com
 
 
 
-Skype Id: Soumyadip12
+Skype Id: soumyadip12
