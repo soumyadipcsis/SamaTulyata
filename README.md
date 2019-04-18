@@ -2,7 +2,7 @@
 
 1. equivchecker-master.zip: Contains ecplise plugin.(https://github.com/santonus/equivchecker.git)
 
-2. Equivalence-checker-master.zip: Contains first version of tool (https://github.com/soumyadipcsis/Equivalence-checker.git)
+2. Latest version of tool (https://github.com/soumyadipcsis/Equivalence-checker.git)
 
 
 # SamaTulyata Tool
@@ -26,7 +26,7 @@ Prototype of CPN Equivalence checkers
    through an automated model constructor.
 
 
-(For ACTA informatica reviewers)
+
 
 
 ************************************************************************************************************************************
@@ -38,10 +38,10 @@ Prototype of CPN Equivalence checkers
 (b) Automated -- the SCPEQX module + a front end for taking FSMD models and having them transformed to CPN mdoels 
    through an automated model constructor.
 
-(Published in ATVA 2017 as a sh paper)
+(For ACTA informatica reviewers)
 
 ************************************************************************************************************************************
-4. RunThesisExamples: There is a shell script which helps to run all examples which are presented in the paper
+4. run.sh: There is a shell script which helps to run all examples which are presented in the paper
 
 ************************************************************************************************************************************
 
